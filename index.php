@@ -6,7 +6,7 @@
 </head>  
 <body>  
     <div id = "frm">  
-        <h1>Student Login</h1>  
+        <h1>Admin Login</h1>  
         <form name="f1" action = "authentication.php" onsubmit = "return validation()" method = "POST">  
             <p>  
                 <label> Username: </label>  

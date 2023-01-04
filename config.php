@@ -14,3 +14,7 @@ if($link === false){
     die("ERROR: Could not connect. " . mysqli_connect_error());
 }
 ?>
+
+<!-- MySQL DB Name	         	MySQL User Name	MySQL 	Password	MySQL          Host Name	PHPMyAdmin
+epiz_33030521_assigment	  	epiz_33030521	        (Your vPanel Password)	    sql204.epizy.com -->
+
